@@ -1,3 +1,4 @@
+Now is the time
 This is my first coding attempt in Git
 It is also a Friday
 Christmas is just around the corner
